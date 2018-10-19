@@ -1,2 +1,2 @@
 # SDM-Analysis-R-Perl-GRASS-GIS-scripts
-Various scripts from Master's thesis at University of Utah.
+Various GDAL, GRASS, Perl, and R scripts from Master's thesis at University of Utah.
